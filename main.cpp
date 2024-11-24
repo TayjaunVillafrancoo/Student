@@ -1,4 +1,3 @@
-using namespace std;
 #include "grade.h"
 
 int main() {
